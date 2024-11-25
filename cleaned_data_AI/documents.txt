@@ -1,0 +1,2 @@
+This is a document about AI.
+Another document about machine learning.
